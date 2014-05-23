@@ -21,7 +21,7 @@
 A community-driven, comprehensive list of San Antonio's bicycle rides. 
 </p>
 
-
+<a href="add.php">Add your ride to the list</a>
 
 
 
